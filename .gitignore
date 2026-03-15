@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+
+vector_db/
+output/
+
+ragproject/
+venv/
+
+Include/
+Lib/
+
+.env
+.DS_Store
